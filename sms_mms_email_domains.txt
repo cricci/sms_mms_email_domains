@@ -18,13 +18,12 @@ page.southernlinc.com
 paging.acswireless.com
 pm.sprint.com
 rinasms.com
-rinasms.com
 sms.airfiremobile.com
 sms.bluecell.com
 sms.cleartalk.us
 sms.cricketwireless.net
 sms.cvalley.net
-SMS.elementmobile.net
+sms.elementmobile.net
 sms.myboostmobile.com
 sms.ntwls.net
 sms.rogers.com
