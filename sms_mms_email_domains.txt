@@ -93,8 +93,8 @@ mms.uscc.net
 mmst5.tracfone.com
 mmsviaero.com
 mobile.att.net
-mobile.cellularone.com
 mobile.celloneusa.com
+mobile.cellularone.com
 mobile.dobson.net
 mobile.gci.net
 mobile.kajeet.net
@@ -148,6 +148,8 @@ page1nw.com
 pageapi.com
 pagegate.pagenet.ca
 pagemart.net
+pagemci.com
+pageme.comspeco.net
 pageme.teletouch.com
 pager.comspeco.com
 pager.irkutsk.ru
@@ -155,8 +157,6 @@ pager.qualcomm.com
 pager.tdspager.com
 paging.acswireless.com
 paging.cellone-sf.com
-pagemci.com
-pageme.comspeco.net
 pcs.ntelos.com
 pcs.rogers.com
 pcsone.net
@@ -212,10 +212,10 @@ smsmail.lmt.lv
 sprintpaging.com
 suncom1.com
 swmsg.com
-t.vodafone.ne.jp
 t-d1-sms.de
 t-mobile-sms.de
 t-mobile.uk.net
+t.vodafone.ne.jp
 teleflip.com
 text.houstoncellular.net
 text.longlines.com
@@ -233,8 +233,8 @@ usamobility.net
 uscc.textmsg.com
 uswestdatamail.com
 utext.com
-vmobl.com
 viaerosms.com
+vmobl.com
 vodafone.es
 voicestream.net
 vtext.com
