@@ -1,6 +1,8 @@
 advantagepaging.com
+airmessage.net
 airtelap.com
 airtelchennai.com
+airtelkol.com
 airtelmail.com
 airtouch.net
 airtouchpaging.com
@@ -15,6 +17,7 @@ bellsouthtips.com
 blsdcs.net
 blueskyfrog.com
 bplmobile.com
+celforce.com
 cell1.textmsg.com
 cellcom.quiktxt.com
 cellularone.textmsg.com
@@ -31,13 +34,22 @@ cvcpaging.com
 cwemail.com
 delhi.hutch.co.in
 dpcs.mobile.att.net
+e-page.net
 echoemail.net
 email.uscc.net
+emtelworld.net
 epage.arch.com
+epage.porta-phone.com
+escotelmobile.com
+fido.ca
 gscsms.com
+gte.pagegate.net
 hawaii.sprintpcs.com
+ideacellular.net
+inlandlink.com
 iwirelesshometext.com
 iwspcs.net
+jsmtel.com
 mail.msgsender.com
 mail.uscc.net
 mailmymobile.net
@@ -45,6 +57,7 @@ mellonmobile.ga
 message.alltel.com
 message.bam.com
 message.cellone-sf.com
+messagealert.com
 messaging.centurytel.net
 messaging.sprintpcs.com
 mmode.com
@@ -68,6 +81,7 @@ mobile.mycingular.com
 mobile.mycingular.net
 msg.acsalaska.com
 msg.clearnet.com
+msg.fi.google.com
 msg.telus.com
 myairmail.com
 myboostmobile.com
@@ -78,6 +92,7 @@ mypixmessages.com
 mymetropcs.com
 page.att.net
 page.hit.net
+page.infopagesystems.com
 page.southernlinc.com
 pageapi.com
 pager.comspeco.com
@@ -102,6 +117,8 @@ sms.cricketwireless.net
 sms.cvalley.net
 sms.edgewireless.com
 sms.elementmobile.net
+sms.emt.ee
+sms.goldentele.com
 sms.myboostmobile.com
 sms.mycricket.com
 sms.ntwls.net
@@ -111,9 +128,11 @@ sms.rogers.com
 sms.smartmessagingsuite.com
 sms.wcc.net
 sms.xit.net
+smsmail.lmt.lv
 swmsg.com
 t-mobile-sms.de
 teleflip.com
+text.houstoncellular.net
 text.longlines.com
 text.voyagermobile.com
 tmomail.net
@@ -128,4 +147,5 @@ vtext.com
 vtxt.com
 vxtras.com
 vzwpix.com
+webpager.us
 wireless.bellsouth.com
