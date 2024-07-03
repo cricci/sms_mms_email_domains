@@ -1,7 +1,7 @@
 [![Licensed under CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 # What is this?
-A list of email domains for delivery to mobile devices, by sms or mms. Sometimes called email-to-SMS (or email-to-MMS) addresses. Includes mobile and pager networks, current and old domains. With time, I'll put another list here with only active services/domains.
+A list of email domains for delivery to mobile devices, by sms or mms. Sometimes called email-to-SMS (or email-to-MMS) addresses. Includes mobile and pager networks, current and old domains.
 
 ## What are the files?
 * The *-ALL* file has every (SMS, MMS, paging) domain I've found to-date (i.e. for scrubbing an existing list)
