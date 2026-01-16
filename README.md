@@ -7,7 +7,6 @@ A list of email domains for delivery to mobile devices, by sms or mms. Sometimes
 * The *-ALL* file has every (SMS, MMS, paging) domain I've found to-date (i.e. for scrubbing an existing list)
 * The *-WORKING* file has a list of domains that have working MX entry(ies) in DNS, thus they appear to support email delivery (i.e. for preventing inclusion, filtering from forms or imports, etc.)
 * The *ipynb* is a Jupyter notebook with code I used to validate the -WORKING domains.
-* The *csv* is the output from this Jupyter notebook, and for further analysis.
 
 ## Why?
 
