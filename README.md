@@ -13,3 +13,5 @@ A list of email domains for delivery to mobile devices, by sms or mms. Sometimes
 For an assortment of projects, I needed to flag these email addresses for exclusion in campaigns. Depending on where you are in the world, sending even solicited messages to these endpoints can get you in-trouble with certain carrier networks. As well, long-form emails sent to these devices may not appear as you intend so preventing their inclusion in your lists, or excluding them from campaigns, can save you headache and eliminates some QA burden.
 
 Provided without warranty.
+
+See also: [public_email_domains](https://github.com/cricci/public_email_domains)
