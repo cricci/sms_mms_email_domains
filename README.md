@@ -14,4 +14,4 @@ For an assortment of projects, I needed to flag these email addresses for exclus
 
 Provided without warranty.
 
-See also: [public_email_domains](https://github.com/cricci/public_email_domains)
+See also: [public_email_domains](https://github.com/cricci/public_email_domains), [me](https://github.com/cricci)
